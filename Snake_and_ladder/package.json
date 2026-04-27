@@ -1,0 +1,16 @@
+{
+  "name": "snake-and-ladder",
+  "version": "1.0.0",
+  "description": "A beautiful mobile-app-style Snake and Ladder game built with Node.js and vanilla JS.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["snake-and-ladder", "game", "node", "express"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
